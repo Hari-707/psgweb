@@ -1,0 +1,133 @@
+html      
+{
+    background-color: beige;
+}
+body      
+{
+    background-color: bisque;
+}
+.text-bold       
+{
+    font-size: 20px;       
+    color:red;         /*psgcas heading*/
+    margin-top: 5px;
+}  
+
+.container-fluid  
+{
+    text-align: center;
+    color: red;                 /*psgcas container*/
+    background-color: burlywood;
+}
+.navbar     
+{
+    background-color: black;
+    color: red;
+    
+}
+
+
+.navbar-nav      
+{
+    border-radius: 7px;
+    float: left;
+    margin-left: 1px;
+    color: red;
+    font-family: sans-serif monospace;
+    font-size: 15px;
+    
+}
+
+.navbar-nav ul li a:hover  
+{
+    color:orangered;
+    text-decoration: none;
+    
+}
+.foot-heading   
+{
+    color: darkblue;
+    font-size: 30px;
+    font-weight: 200;
+    padding-left: 0px;
+    padding: inherit;
+    
+    text-align: center;
+}
+.foot-subhead   
+{
+    color:red;
+    font-size: 15px;
+    font-weight: 200;
+    font-size: 20px;
+    padding-left: 1%;
+    margin-bottom: 20px;
+    text-align: left;
+    float: left;
+}
+.contact-home  
+{
+    float:right;
+    font-size: 20px;  /*contact homepage*/
+    color: red;
+    
+}
+.copy  
+{
+    background-color:aquamarine;
+    text-align: center;
+    font-size: 25px;                  /*copyrights at bottom*/
+    color: black;
+    font-family: sans-serif monospace;
+}
+.content-home    
+{
+    text-indent: 50px;
+    margin: 2px;
+    border: 1px;
+    background-color: darkolivegreen;   /*home page paragraph*/
+    color: red;
+    font-size: 25px;
+    
+}
+.img-circle  
+{
+    text-align: center;     
+    width: 500px;            /*home page pic*/
+    height: 500px;
+    
+}
+.homepagebullet
+{
+    background-color: aqua;
+    color: black;
+    float: right;
+    font-family: sans-serif monospace serif; /*home page bullet in link*/
+    font-size: 30px;
+    padding:20px;
+    border-radius: 2px;
+    margin: 20px;
+}
+.library 
+{
+    background-color: aqua;
+    color: black;
+    float: right;
+    font-family: sans-serif monospace serif;    /*home page library section*/
+    font-size: 30px;
+    padding: 20px;
+    border-radius: 2px;
+    margin: 20px;
+    
+}
+.buttons-bulletin
+{
+    text-align: center;
+    
+}
+
+
+
+
+
+

@@ -1,0 +1,316 @@
+
+/*header start*/
+
+.container-fluid-head         
+{
+    background-color:lightgreen;
+    color:white;
+    padding:10px;
+    font-size:25px;
+    text-align:center;
+    border-radius:8px;
+    font-weight:italic;
+
+    }
+    
+.img-header{
+float:left;
+padding:10px;
+
+}
+.img-header-2{
+float:right;
+padding:10px;
+}
+/*header end */
+
+/*navbar start*/
+  .navbar-nav
+  {
+      width:100%;
+      background-color: grey;
+      color:red;
+      padding-bottom:2px;
+      float:left;
+      border-radius:8px;
+      padding-left:5px;
+    
+  }
+ .navbar-nav ul li a:hover
+ {
+   color:green;
+   text-decoration: navy;  
+
+ } 
+ .navbar-nav ul li a
+ {
+     color:red;
+ }
+ /*navbar end*/
+
+  /*bullet and library links start */
+  .homepagebullet a:hover,.library a:hover
+  {
+      color:green;
+      background-color: whitesmoke;
+      text-decoration: none;
+  }
+  .homepagebullet a,.library a
+  {
+  color:red;
+  font-size:40px;
+  font-weight:200px;
+  float:right;
+  padding:20px;
+  
+}
+/*bullet and library links end */
+
+img
+{
+    padding:10px;
+    
+}
+
+.imgbullet
+{
+    float:right;
+    padding:15px;
+}
+
+/*homepage content start*/
+ .content-home
+ {
+     color:lightgreen;
+     background-color: whitesmoke;
+ }
+ .container-body h1 ,h3
+ {
+     text-align: center;
+     color:red;
+     font-size:30px;
+     padding:10px;
+     font-style:italic;
+      }
+      .container-body p
+      {
+        text-align:center;
+        font-size:20px;
+        padding:20px;
+        font-style:italic;
+      }
+      /*homepage content end*/
+
+      /*footer*/
+      .container-fluid-foot
+      {
+          background-color: white;
+          color:red;
+          padding:10px;
+      }
+      .foot-heading
+      {
+          color:blue;
+          padding:10px;
+          font-size:30px;
+          margin:20px;
+          text-align: center;
+
+      }
+      .foot-subhead
+      {
+          color:red;
+          padding:10px;
+          font-size:20px;
+          margin:10px;
+          float:left;  
+      }
+      .contact
+      {
+          color:red;
+          padding:10px;
+          font-size:20px;
+          margin:10px;
+         float:right;
+      }
+      .copy
+      {
+          background-color: white;
+          color:green;
+          text-align:center;
+          padding:20px;
+          font-size:15px;
+          background-color: grey;
+          width:100%;
+    }
+
+    /*homepage completed*/
+      
+
+      /*about page start*/
+
+      .content-about
+      {
+          background-color:whitesmoke;
+          color:lightgreen;
+          padding:10px;
+          text-align: center;
+         
+
+      }
+      .content-about-head,.content-about-subhead
+      {
+          text-align: center;
+          color:red;
+          font-weight:bold;
+      
+      }
+      
+.imgabout,.imgabout2
+{
+    float:left;
+    padding:20px;
+    padding-left:40px;
+    
+}
+.imgabout3,.imgabout4
+{
+    float:right;
+    padding:20px;
+
+}
+.content-about p
+{
+    font-size:20px;
+    padding:20px;
+}
+.imgabout5
+{
+    text-align: center;
+    font-size:30px;
+}
+/*aboutpage completed*/
+
+/*adminstrationpage start*/
+ .content-admin
+ {
+     color:lightgreen;
+     background-color: whitesmoke;
+ }
+.content-admin  h2
+{
+    color:green;
+    text-align: center;
+
+}
+.content-admin p
+{
+    text-align: center;
+    font-size:30px;
+    padding:15px;
+}
+.content-admin strong
+{
+    text-align:center;
+    padding:30px;
+    margin:30px;
+}
+.imgadmin
+{
+    text-align:center;
+}
+/* admin completed*/
+
+/*programs start*/
+
+.container-program
+{
+    color:lightgreen;
+    text-align:center;
+    background-color: whitesmoke;
+}
+.content-program-govern h1,.container-program h4
+{
+    text-align: center;
+    font-size:30px;
+    color:red;
+    padding:20px;
+}
+.content-program-self h3,.content-program-govern h3
+{
+    color:lightgreen;
+    padding:20px;
+    text-align:justify;
+}
+.container-program 
+{
+    font-size:20px;
+    padding:20px;
+    text-align: center;
+}
+/*programs completed*/
+
+/*placements start*/
+
+.content-place
+{
+    color:red;
+    background-color: whitesmoke;
+}
+.content-place h3
+{
+    text-align: center;
+    color:green;
+}
+.content-place h1
+{
+    color:red;
+    text-align: center;
+}
+
+.content-place strong b
+{
+    float:left;
+    padding:20px;
+}
+.content-place p
+{
+    
+    font-size:30px;
+    color:blue;
+    font-weight:bold;
+}
+.content-place small
+{
+ 
+    font-size:40px;
+    color:brown;
+    font-weight:bold;
+}
+/*placement end*/
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
